@@ -1,6 +1,6 @@
 modprobe pl2303
 modprobe ftdi_sio
-mount /jffs/ /opt
+mount /jffs/ /opt/
 cd /opt
 curl -kLO https://raw.githubusercontent.com/Mateusz-Dera/DD-WRT-Easy-Entware-Installer/master/install.sh
 sh ./install.sh
