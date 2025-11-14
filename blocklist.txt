@@ -1,1 +1,2 @@
-https://android.googleapis.com/
+android.googleapis.com
+
